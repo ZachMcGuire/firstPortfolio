@@ -11,14 +11,81 @@
 }
 .header-title {
     font-weight: bolder;
-    font-size: 50px;
+    font-size: 50px;margin-left: 100px;
 }
 .links {
     display: flex;
     align-content: center;
     gap: 10px;
+    margin-right: 100px;
     
 }
 .linkButton {
     font-size: 30px;
+}
+.container2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.aboutMe {
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.aboutMe2 {
+    font-size: 30px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;    
+    
+}
+.container3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.work {
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-left: 100px; 
+    margin-right: 100px;
+
+}
+.work2 {
+    font-size: 30px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+.container4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.contact {
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+
+}
+.contact2 {
+    font-size: 30px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    
 }
